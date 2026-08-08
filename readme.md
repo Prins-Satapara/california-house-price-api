@@ -88,7 +88,7 @@ Target:
 Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/california-house-price-api.git
+git clone https://github.com/Prins-Satapara/california-house-price-api.git
 cd california-house-price-api
 ```
 
